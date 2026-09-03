@@ -165,9 +165,9 @@ else:
 
         y="Ruang",
 
-        color="Kode MK",
+        color="Nama MK",
 
-        text="Kode MK",
+        text="Nama MK",
 
         hover_data=[
             "Nama MK",
