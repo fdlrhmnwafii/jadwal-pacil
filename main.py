@@ -220,7 +220,7 @@ st.divider()
 # Jadwal Lengkap
 # ===========================
 
-st.header("📄 Jadwal Lengkap")
+st.header(f"📄 Jadwal Lengkap Per Hari {hari}")
 
 st.dataframe(
     filtered,
