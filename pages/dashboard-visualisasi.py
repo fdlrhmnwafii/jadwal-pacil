@@ -183,6 +183,7 @@ else:
 
     # Room paling atas
     fig.update_yaxes(
+        categoryorder="category ascending",
         autorange="reversed",
         title="Ruangan"
     )
